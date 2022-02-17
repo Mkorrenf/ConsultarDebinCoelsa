@@ -1,7 +1,7 @@
 # ConsultarDebinCoelsa
-Aplicación para consultar el detalle de Debin de forma individual o masiva a la cámara compensadora Coelsa
+Aplicación para consultar el detalle de Debin de forma individual o masiva a la cámara compensadora Coelsa.
 
-•	Para el correcto funcionamiento de la aplicación, se requiere tener el correspondiente certificado generado por la cámara, ya que, si no va a ser rechazada la conexión.
+•	Para el correcto funcionamiento de la aplicación, se requiere tener el correspondiente certificado generado por la cámara, ya que, si no, va a ser rechazada la conexión.
 
 •	Es necesario modificar el archivo App.config, los parámetros de "baseAddress" y "urlConsultaDebin" con los valores correspondientes al endpoint a utilizar.
 
